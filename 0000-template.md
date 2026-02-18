@@ -9,6 +9,13 @@
 
 One paragraph explanation of the problem that users of Rust with C++ are having.
 
+## Related Problems
+[related-problems]: #related-problems
+
+Does this problem depend on any other problems being solved first? Do other problems depend on it?
+Is it part of a larger group of problems?
+Does solving this problem conflict with other problems?
+
 ## Impact
 [impact]: #impact
 
@@ -21,13 +28,6 @@ It should also contain several specific use cases where users encounter this pro
 This section is one of the most important sections of the problem statement, and can be lengthy.
 
 It should *not* propose specific solutions, that is the role of Rust / C++ change proposals.
-
-## Related Problems
-[related-problems]: #related-problems
-
-Does this problem depend on any other prpblems being solved first? Do other problems depend on it?
-Is it part of a larger group of problems?
-Does solving this problem conflict with other problems?
 
 ## Guide-level explanation
 [guide-level-explanation]: #guide-level-explanation
